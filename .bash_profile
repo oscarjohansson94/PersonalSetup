@@ -10,4 +10,5 @@ alias e++11='g++ -std=c++11 -pedantic -Wall -Wextra -Werror'
 alias g++14='g++ -std=c++14'
 alias w++14='g++ -std=c++14 -pedantic -Wall -Wextra'
 alias e++14='g++ -std=c++14 -pedantic -Wall -Wextra -Werror'
+alias gs='git status'
 export PATH="/Library/TeX/texbin/pdflatex:$PATH"
